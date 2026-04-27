@@ -1,0 +1,219 @@
+[
+  {
+    "name": "Demoblaze",
+    "url": "https://www.demoblaze.com/",
+    "timestamp": "15:31:22",
+    "load_time_ms": 3801,
+    "http_status": 0,
+    "console_errors": [],
+    "console_warnings": [
+      "VIDEOJS: WARN: A plugin named \"reloadSourceOnError\" already exists. You may want to avoid re-registering plugins!"
+    ],
+    "failed_requests": [],
+    "slow_requests": [],
+    "broken_images": [],
+    "broken_links": [
+      "CATEGORIES"
+    ],
+    "missing_alt": [
+      "https://www.demoblaze.com/blazemeter-favicon-512x512.png",
+      "https://www.demoblaze.com/imgs/galaxy_s6.jpg",
+      "https://www.demoblaze.com/imgs/Lumia_1520.jpg",
+      "https://www.demoblaze.com/imgs/Nexus_6.jpg",
+      "https://www.demoblaze.com/imgs/galaxy_s6.jpg",
+      "https://www.demoblaze.com/imgs/iphone_6.jpg",
+      "https://www.demoblaze.com/imgs/xperia_z5.jpg",
+      "https://www.demoblaze.com/imgs/HTC_M9.jpg"
+    ],
+    "security_issues": [
+      "⚠ 2 campo(s) de contraseña sin autocomplete adecuado",
+      "⚠ 3 input(s) sin label ni aria-label (accesibilidad)"
+    ],
+    "form_issues": [
+      "Formulario 1: sin atributo action definido",
+      "Formulario 2: sin atributo action definido",
+      "Formulario 3: sin atributo action definido"
+    ],
+    "perf_issues": [
+      "⚡ Carga moderada: 3801ms (3-5s)"
+    ],
+    "summary": [
+      "🟠 2 problema(s) de seguridad",
+      "🟡 1 advertencia(s) de consola",
+      "ℹ️ 8 imagen(es) sin atributo alt"
+    ]
+  },
+  {
+    "name": "Automation Exercise",
+    "url": "https://www.automationexercise.com/",
+    "timestamp": "15:31:26",
+    "load_time_ms": 3850,
+    "http_status": 0,
+    "console_errors": [
+      {
+        "text": "Mixed Content: The page at 'https://www.automationexercise.com/' was loaded over HTTPS, but requested an insecure stylesheet 'http://fonts.googleapis.com/css?family=Roboto:400,300,400italic,500,700,10",
+        "url": "https://www.automationexercise.com/",
+        "line": 0
+      },
+      {
+        "text": "Mixed Content: The page at 'https://www.automationexercise.com/' was loaded over HTTPS, but requested an insecure stylesheet 'http://fonts.googleapis.com/css?family=Open+Sans:400,800,300,600,700'. Thi",
+        "url": "https://www.automationexercise.com/",
+        "line": 0
+      },
+      {
+        "text": "Mixed Content: The page at 'https://www.automationexercise.com/' was loaded over HTTPS, but requested an insecure stylesheet 'http://fonts.googleapis.com/css?family=Abel'. This request has been blocke",
+        "url": "https://www.automationexercise.com/",
+        "line": 0
+      },
+      {
+        "text": "Attestation check for Attribution Reporting on https://ad.doubleclick.net failed.",
+        "url": "https://www.automationexercise.com/",
+        "line": 0
+      },
+      {
+        "text": "Attestation check for Attribution Reporting on https://ad.doubleclick.net failed.",
+        "url": "https://www.automationexercise.com/",
+        "line": 0
+      }
+    ],
+    "console_warnings": [],
+    "failed_requests": [],
+    "slow_requests": [],
+    "broken_images": [],
+    "broken_links": [
+      "Add to cart",
+      "Add to cart",
+      "Add to cart",
+      "Add to cart",
+      "Add to cart",
+      "Add to cart",
+      "Add to cart",
+      "Add to cart"
+    ],
+    "missing_alt": [],
+    "security_issues": [],
+    "form_issues": [
+      "Formulario 1: sin atributo action definido",
+      "Formulario 1: 1 campo(s) required"
+    ],
+    "perf_issues": [
+      "⚡ Carga moderada: 3850ms (3-5s)"
+    ],
+    "summary": [
+      "🔴 5 error(es) de consola JS"
+    ]
+  },
+  {
+    "name": "Rahul Shetty Greens",
+    "url": "https://rahulshettyacademy.com/seleniumPractise/#/",
+    "timestamp": "15:31:30",
+    "load_time_ms": 4788,
+    "http_status": 0,
+    "console_errors": [],
+    "console_warnings": [],
+    "failed_requests": [],
+    "slow_requests": [],
+    "broken_images": [
+      "https://rahulshettyacademy.com/seleniumPractise/images/walnuts.jpg",
+      "(sin src)"
+    ],
+    "broken_links": [],
+    "missing_alt": [
+      "(sin src)"
+    ],
+    "security_issues": [
+      "⚠ 31 input(s) sin label ni aria-label (accesibilidad)"
+    ],
+    "form_issues": [],
+    "perf_issues": [
+      "⚡ Carga moderada: 4788ms (3-5s)"
+    ],
+    "summary": [
+      "🟡 2 imagen(es) rota(s)",
+      "🟠 1 problema(s) de seguridad",
+      "ℹ️ 1 imagen(es) sin atributo alt"
+    ]
+  },
+  {
+    "name": "ParaBank",
+    "url": "https://parabank.parasoft.com/",
+    "timestamp": "15:31:35",
+    "load_time_ms": 4108,
+    "http_status": 0,
+    "console_errors": [],
+    "console_warnings": [],
+    "failed_requests": [],
+    "slow_requests": [],
+    "broken_images": [],
+    "broken_links": [],
+    "missing_alt": [
+      "https://parabank.parasoft.com/parabank/images/clear.gif"
+    ],
+    "security_issues": [
+      "⚠ 1 campo(s) de contraseña sin autocomplete adecuado",
+      "⚠ 2 input(s) sin label ni aria-label (accesibilidad)"
+    ],
+    "form_issues": [],
+    "perf_issues": [
+      "⚡ Carga moderada: 4108ms (3-5s)"
+    ],
+    "summary": [
+      "🟠 2 problema(s) de seguridad",
+      "ℹ️ 1 imagen(es) sin atributo alt"
+    ]
+  },
+  {
+    "name": "Petstore Swagger",
+    "url": "https://petstore.swagger.io/",
+    "timestamp": "15:31:39",
+    "load_time_ms": 3865,
+    "http_status": 0,
+    "console_errors": [],
+    "console_warnings": [],
+    "failed_requests": [],
+    "slow_requests": [],
+    "broken_images": [],
+    "broken_links": [
+      ".logo_small_svg__cls-2{fill:#fff}.logo_small_svg__cls-3{fill"
+    ],
+    "missing_alt": [],
+    "security_issues": [
+      "⚠ 1 input(s) sin label ni aria-label (accesibilidad)"
+    ],
+    "form_issues": [
+      "Formulario 1: sin atributo action definido"
+    ],
+    "perf_issues": [
+      "⚡ Carga moderada: 3865ms (3-5s)"
+    ],
+    "summary": [
+      "🟠 1 problema(s) de seguridad"
+    ]
+  },
+  {
+    "name": "Juice Shop",
+    "url": "https://juice-shop.herokuapp.com",
+    "timestamp": "15:31:43",
+    "load_time_ms": 5305,
+    "http_status": 0,
+    "console_errors": [],
+    "console_warnings": [],
+    "failed_requests": [],
+    "slow_requests": [],
+    "broken_images": [],
+    "broken_links": [
+      "Me want it!"
+    ],
+    "missing_alt": [],
+    "security_issues": [
+      "⚠ 1 input(s) sin label ni aria-label (accesibilidad)"
+    ],
+    "form_issues": [],
+    "perf_issues": [
+      "⚠ Carga muy lenta: 5305ms (>5s)"
+    ],
+    "summary": [
+      "🟠 1 problema(s) de seguridad"
+    ]
+  }
+]
